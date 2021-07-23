@@ -6,16 +6,16 @@
 
 @font-face {
 	font-family: OpenSans-Regular;
-	src: url("../fonts/OpenSans-regular.ttf") format("ttf"),
-    url("../fonts/OpenSans-regular.woff") format("woff"),
-    url("../fonts/OpenSans-regular.woff2") format("woff2");
+	src: url(".../fonts/OpenSans-regular.ttf") format("ttf"),
+    url(".../fonts/OpenSans-regular.woff") format("woff"),
+    url(".../fonts/OpenSans-regular.woff2") format("woff2");
 }
 
 @font-face {
 	font-family: OpenSans-Bold;
-	src: url("../fonts/OpenSans-bold.ttf") format("ttf"),
-    url("../fonts/OpenSans-bold.woff") format("woff"),
-    url("../fonts/OpenSans-bold.woff2") format("woff2");
+	src: url(".../fonts/OpenSans-bold.ttf") format("ttf"),
+    url(".../fonts/OpenSans-bold.woff") format("woff"),
+    url(".../fonts/OpenSans-bold.woff2") format("woff2");
 }
 
 .popup_display {
