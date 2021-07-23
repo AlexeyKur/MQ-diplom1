@@ -27,6 +27,7 @@
   height: 100%;
   background-color: rgba(0, 0, 0, 0.6);
   z-index: 4;
+  display: none;
 }
 
 .popup {
@@ -400,6 +401,7 @@
 }
 
 .trend_content {
+  width: 100%;
   border: 3px solid #b59f5b;
   padding: 40px 30px 35px;
 }
@@ -444,6 +446,7 @@
 .main_content_img {
   width: 48%;
   margin-right: 30px;
+  flex-shrink: 0;
 }
 
 .main_content_title {
